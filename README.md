@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL: 
+- Solution URL: 
 
 ## My process
 

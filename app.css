@@ -387,7 +387,7 @@ form button {
     border-radius: 0.25rem;
     border: none;
     background-color: hsl(322, 100%, 66%);
-    padding-inline: calc(min(1.5em, 2vw) + 4%);
+    padding-inline: calc(max(1.75em, 2vw) + 4%);
     padding-block: calc(min(0.75em, 1vh) + 0.5%);
     color: white;
     font-weight: 600;

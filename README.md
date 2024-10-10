@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution Live URL: https://huddle-mauve-rho.vercel.app/
 
 ## My process
 
